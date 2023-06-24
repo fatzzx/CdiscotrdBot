@@ -1,0 +1,2 @@
+# CdiscotrdBot
+Simple Discord BOT
